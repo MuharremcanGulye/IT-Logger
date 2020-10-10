@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007 ",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-09-19T19:46:18.590Z"
+    },
+    {
+      "id": 2,
+      "message": "Hard drive broken in server #008",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-09-19T20:04:47.322Z"
+    },
+    {
+      "id": 3,
+      "message": "ecemin hurda bilgisayarı tamir edildi",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-09-25T19:58:18.330Z"
+    }
+  ],
+  "techs": [
+    {
+      "name": "Ted",
+      "lastname": "Jackson",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "lastname": "Doe",
+      "id": 3
+    },
+    {
+      "name": "Sam",
+      "lastname": "Smith",
+      "id": 4
+    },
+    {
+      "name": "Muharremcan ",
+      "lastname": "Gülye",
+      "id": 5
+    }
+  ]
+}
